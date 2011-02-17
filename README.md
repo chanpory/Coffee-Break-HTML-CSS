@@ -1,6 +1,9 @@
-Learn HTML and CSS
+Hello
 ==================
 
+Welcome to You Can Do It: HTML and CSS.
+
+These are exercises for teaching HTML and CSS to the complete novice. This is a work in progress.
 
 HTML
 ====
