@@ -25,6 +25,7 @@ HTML
 + body
 
 ** Assignment 2: A paragraph and a bit more **  
+
 + p
 + h1
 + h2
@@ -35,6 +36,7 @@ HTML
 + a
 
 ** Assignment 3: **  
+
 + <! -- -->
 + ol
 + ul
@@ -43,6 +45,7 @@ HTML
 
 
 ** Assignment 4: **  
+
 + article
 + section
 + nav
@@ -51,6 +54,7 @@ HTML
 + aside
 
 ** Assignment 5: **  
+
 + div
 + span
 + class
@@ -59,11 +63,15 @@ HTML
 ** Assignment 6: Forms **  
 
 
+
 ** Assignment 7: Tables **  
+
 
 ** Assignment 8: Images **  
 
+
 ** Assignment 9: Advanced Tags **  
+
 + abbr
 + b
 + i
@@ -88,17 +96,21 @@ CSS
 ----
 
 **Selectors**  
+
 + Tag, ID, Class
 + Inheritance
 
 **Color**  
 
+
 **Typography**  
+
 + Links
 + Text decorations/transformations
 + Character properties
 
 **Box model**  
+
 + Margin 
 + padding 
 + border 
