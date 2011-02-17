@@ -3,7 +3,17 @@ Welcome to You Can Do It: HTML and CSS
 The first part of this class is about HTML,
 the language for describing content on web pages.
 
-HTML is called a "markup language".
+HTML is called a "markup language" because you are annotating content to describe the meaning of the content. These annotations are called "tags". A tag marking the beginning of a paragraph looks like this:
+
+<p>
+
+A tag marking the end of a paragraph looks like this:
+
+</p>
+
+A marked up paragraph looks like this:
+
+<p>This is a paragraph</p>
 
 In your first assignment, you will use the following tags to markup a source text:
 
