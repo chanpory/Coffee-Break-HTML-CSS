@@ -14,153 +14,133 @@ This is not a class about making web pages. It is about forming opinions, having
 
 
 HTML
-====
-Assignment 1
 ------------
+
+**Assignment 1: Hello World **
 + !doctype html
 + html
 + head
 + title
 + body
+
+** Assignment 2: A paragraph and a bit more **
++ p
 + h1
 + h2
-+ p
 + em
 + strong
 + &amp;
 + &em;
 + a
 
-Assignment 2
-------------
-<! -- -->
-ol
-ul
-li
-
-br
+** Assignment 3: **
++ <! -- -->
++ ol
++ ul
++ li
++ br
 
 
-Assignment 3
-------------
-article
-section
-nav
-header
-footer
-aside
+** Assignment 4: **
++ article
++ section
++ nav
++ header
++ footer
++ aside
 
-Assignment 4
-------------
-div
-span
-class
-id
+** Assignment 5: **
++ div
++ span
++ class
++ id
 
-Forms
------
+** Assignment 6: Forms **
 
-Tables
-------
 
-Images
-------
+** Assignment 7: Tables **
 
-Advanced Tags
--------------
-abbr
-b
-i
-pre
-code
-blockquote
-figure
-figcaption
-cite
-caption
-hr
-time
-sub
-sup
-small
-s
-q
-mark
+** Assignment 8: Images **
+
+** Assignment 9: Advanced Tags **
++ abbr
++ b
++ i
++ pre
++ code
++ blockquote
++ figure
++ figcaption
++ cite
++ caption
++ hr
++ time
++ sub
++ sup
++ small
++ s
++ q
++ mark
 
 
 CSS
-===
-Selectors
----------
-Tag, ID, Class
-Inheritance
+----
 
-Color
------
+**Selectors**  
++ Tag, ID, Class
++ Inheritance
 
-Typography
-----------
-Links
-Text decorations/transformations
-Character properties
+**Color**  
 
-Box model
----------
-Margin 
-padding 
-border 
-width
-height
-content
+**Typography**  
++ Links
++ Text decorations/transformations
++ Character properties
 
-Page-flow
----------
-Block vs inline
-Floats and Clears
-Visibility
+**Box model**  
++ Margin 
++ padding 
++ border 
++ width
++ height
++ content
 
-Positioning
------------
-Absolute
-Relative
-Static
+**Page-flow**  
++ Block vs inline
++ Floats and Clears
++ Visibility
 
-Advanced selectors
-------------------
-Descendant and child 
-Attribute selectors
+**Positioning**  
++ Absolute
++ Relative
++ Static
 
-Mouse events
-------------
-Pseudo classes
+**Advanced selectors**  
++ Descendant and child 
++ Attribute selectors
 
-Content-generation
-------------------
-:before
-:after
+**Mouse events**  
++ Pseudo classes
+
+**Content-generation**  
++ :before
++ :after
 
 
-Image
------
+**Image**  
 
-Background
-----------
+**Background**  
 
-Effects
--------
+**Effects**  
 
-Animation/transitions
----------------------
+**Animation/transitions**  
 
-Forms
------
+**Forms**  
 
-Tables
-------
+**Tables**  
 
 
-Techniques
-----------
-Horizontal nav
-3-column layout
-Linking/importing css
+**Techniques**  
++ Horizontal nav
++ 3-column layout
++ Linking/importing css
