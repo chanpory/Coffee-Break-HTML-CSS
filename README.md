@@ -16,14 +16,14 @@ This is not a class about making web pages. It is about forming opinions, having
 HTML
 ------------
 
-**Assignment 1: Hello World **
+**Assignment 1: Hello World **  
 + !doctype html
 + html
 + head
 + title
 + body
 
-** Assignment 2: A paragraph and a bit more **
+** Assignment 2: A paragraph and a bit more **  
 + p
 + h1
 + h2
@@ -33,7 +33,7 @@ HTML
 + &em;
 + a
 
-** Assignment 3: **
+** Assignment 3: **  
 + <! -- -->
 + ol
 + ul
@@ -41,7 +41,7 @@ HTML
 + br
 
 
-** Assignment 4: **
+** Assignment 4: **  
 + article
 + section
 + nav
@@ -49,20 +49,20 @@ HTML
 + footer
 + aside
 
-** Assignment 5: **
+** Assignment 5: **  
 + div
 + span
 + class
 + id
 
-** Assignment 6: Forms **
+** Assignment 6: Forms **  
 
 
-** Assignment 7: Tables **
+** Assignment 7: Tables **  
 
-** Assignment 8: Images **
+** Assignment 8: Images **  
 
-** Assignment 9: Advanced Tags **
+** Assignment 9: Advanced Tags **  
 + abbr
 + b
 + i
