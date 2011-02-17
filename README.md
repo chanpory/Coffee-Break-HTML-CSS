@@ -119,23 +119,28 @@ CSS
 + content
 
 **Page-flow**  
+
 + Block vs inline
 + Floats and Clears
 + Visibility
 
 **Positioning**  
+
 + Absolute
 + Relative
 + Static
 
 **Advanced selectors**  
+
 + Descendant and child 
 + Attribute selectors
 
 **Mouse events**  
+
 + Pseudo classes
 
 **Content-generation**  
+
 + :before
 + :after
 
