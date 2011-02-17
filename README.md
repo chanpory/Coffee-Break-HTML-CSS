@@ -3,7 +3,9 @@ Hello
 
 Welcome to You Can Do It: HTML and CSS.
 
-These are exercises for teaching HTML and CSS to the complete novice. This is a work in progress.
+This project has exercises for a beginning HTML and CSS class. The goal is to build a curriculum with exercises to make learning HTML and CSS easy and fun. Our hope is to also incorporate the teaching of typographic principles alongside HTML/CSS. So a more appropriate class name in the future might be You Can Do It: Typography and Front-End Development
+
+This is a work in progress.
 
 HTML
 ====
