@@ -1,0 +1,15 @@
+The Verizon iPhone 4
+
+Wednesday, 2 February 2011
+
+It’s the same phone. The only difference is the network. And Verizon’s network is better.
+
+That’s it in a nut.
+
+Here’s the whole story. I’ve been using a Verizon iPhone 4 since Friday morning.1 I was in San Francisco through Sunday morning, and I’ve been home in Philadelphia ever since.
+
+First, it’s not really the same phone. For one thing, the Verizon iPhone currently runs an ever-so-slightly newer version of iOS. (More on this below.) For another, the Verizon iPhone 4 is, technically, different hardware. The existing iPhone 4 only supports GSM networks. The new Verizon iPhone only supports CDMA. Thus, the two phones have entirely different 3G networking components. The external antenna is also different. I find the CDMA iPhone 4’s antenna to be more aesthetically pleasing, because it’s symmetrical, but it’s a very subtle change. In every other regard, the two phones are identical. They feel the same, they look the same. They perform the same. They have the same battery life.
+
+In six days of use, I find call quality noticeably superior on the Verizon iPhone 4. This was more obvious in San Francisco than it was here in Philadelphia, but it’s noticeable here, too. For example, both of my parents — neither of whom are technically savvy or use cell phones regularly — agreed that I sounded much better while using the Verizon iPhone 4 than I did on my AT&T iPhone 4. There’s an audio mushiness on AT&T.
+
+That said, AT&T’s network actually held up pretty well during Macworld Expo last week. I had data service even on the Expo show floor, and I didn’t miss or drop a single call. But calls on the Verizon phone consistently sounded better.

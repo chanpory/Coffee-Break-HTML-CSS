@@ -1,0 +1,26 @@
+Welcome to You Can Do It: HTML and CSS
+
+The first part of this class is about HTML,
+the language for describing content on web pages.
+
+HTML is called a "markup language".
+
+In your first assignment, you will use the following tags to markup a source text:
+
+!doctype html
+html
+head
+title
+body
+h1
+h2
+p
+em
+strong
+a
+
+
+And, we will also introduce you to HTML Entities, which are special codes for web browsers to display certain characters:
+
+&amp;
+&em;
