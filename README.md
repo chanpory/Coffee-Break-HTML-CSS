@@ -6,19 +6,19 @@ HTML
 ====
 Assignment 1
 ------------
-!doctype html
-html
-head
-title
-body
-h1
-h2
-p
-em
-strong
-&amp;
-&em;
-a
++ !doctype html
++ html
++ head
++ title
++ body
++ h1
++ h2
++ p
++ em
++ strong
++ &amp;
++ &em;
++ a
 
 Assignment 2
 ------------
