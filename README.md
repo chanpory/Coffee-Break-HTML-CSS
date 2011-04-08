@@ -1,4 +1,4 @@
-You Can Do It: HTML and CSS.
+Coffee Break HTML and CSS
 ==================
 
 This is a work in progress. Things will be ugly. Things will change. Things might explode. Don't worry.
